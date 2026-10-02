@@ -1,12 +1,19 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,15&height=220&section=header&text=HMk%20BORHAN%20UDDIN&fontSize=44&fontAlignY=38&desc=AI%20Automation%20Architect%20%7C%20Multi-Agent%20Systems%20Engineer&descAlignY=62&descAlign=50&fontColor=ffffff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,25&height=220&section=header&text=HMk%20BORHAN%20UDDIN&fontSize=46&fontAlignY=36&desc=AI%20Automation%20Architect%20%E2%80%A2%20Multi-Agent%20Systems%20Engineer&descAlignY=62&descAlign=50&fontColor=ffffff" width="100%"/>
+</p>
+
+<!-- ⚡ DYNAMIC TYPEWRITER ANIMATION (MOTION EFFECT) ⚡ -->
+<p align="center">
+  <a href="https://github.com/hmkborhanuddin2004-tech">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=650&height=50&lines=Hi%2C+I'm+HMk+Borhan+Uddin+%F0%9F%91%8B;AI+Automation+Architect+%F0%9F%A4%96;Autonomous+Multi-Agent+Engineer+%E2%9A%A1;Full-Stack+Software+Developer+%F0%9F%9A%80;Solving+Complex+Problems+with+Autonomous+AI+%F0%9F%A7%A9" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://komarev.com/ghpvc/?username=hmkborhanuddin2004-tech&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Views" /></a>
-  <img src="https://img.shields.io/badge/Status-Available%20for%20Projects-success?style=flat-square" alt="Status" />
-  <img src="https://img.shields.io/badge/Focus-Autonomous%20AI%20Agents-blueviolet?style=flat-square" alt="Focus" />
-  <img src="https://img.shields.io/badge/Location-Bangladesh-orange?style=flat-square" alt="Location" />
+  <a href="https://git.io/streak-stats"><img src="https://komarev.com/ghpvc/?username=hmkborhanuddin2004-tech&label=Profile%20Views&color=00f5ff&style=flat-square" alt="Views" /></a>
+  <img src="https://img.shields.io/badge/Status-Available%20for%20Hire-00e676?style=flat-square" alt="Status" />
+  <img src="https://img.shields.io/badge/Specialization-Multi--Agent%20Systems-7c4dff?style=flat-square" alt="Focus" />
+  <img src="https://img.shields.io/badge/Location-Bangladesh-ff9100?style=flat-square" alt="Location" />
 </p>
 
 ---
