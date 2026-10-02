@@ -1,100 +1,149 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,25&height=220&section=header&text=HMk%20BORHAN%20UDDIN&fontSize=46&fontAlignY=36&desc=AI%20Automation%20Architect%20%E2%80%A2%20Multi-Agent%20Systems%20Engineer&descAlignY=62&descAlign=50&fontColor=ffffff" width="100%"/>
-</p>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" width="100%" height="100%">
+  <defs>
+    <!-- Ocean & Island Fusion Dynamic Gradients -->
+    <linearGradient id="oceanBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#030712">
+        <animate attributeName="stop-color" values="#030712;#064e3b;#022c22;#0f172a;#030712" dur="14s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" stop-color="#0c4a6e">
+        <animate attributeName="stop-color" values="#0c4a6e;#0891b2;#047857;#1e1b4b;#0c4a6e" dur="14s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#0284c7">
+        <animate attributeName="stop-color" values="#0284c7;#10b981;#06b6d4;#4338ca;#0284c7" dur="14s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
 
-<!-- ⚡ DYNAMIC TYPEWRITER ANIMATION (MOTION EFFECT) ⚡ -->
-<p align="center">
-  <a href="https://github.com/hmkborhanuddin2004-tech">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=650&height=50&lines=Hi%2C+I'm+HMk+Borhan+Uddin+%F0%9F%91%8B;AI+Automation+Architect+%F0%9F%A4%96;Autonomous+Multi-Agent+Engineer+%E2%9A%A1;Full-Stack+Software+Developer+%F0%9F%9A%80;Solving+Complex+Problems+with+Autonomous+AI+%F0%9F%A7%A9" alt="Typing SVG" />
-  </a>
-</p>
+    <!-- Glassmorphism Specular Glow & Border -->
+    <linearGradient id="glassBorder" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="rgba(255, 255, 255, 0.45)"/>
+      <stop offset="50%" stop-color="rgba(0, 245, 255, 0.2)"/>
+      <stop offset="100%" stop-color="rgba(255, 255, 255, 0.1)"/>
+    </linearGradient>
 
-<p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://komarev.com/ghpvc/?username=hmkborhanuddin2004-tech&label=Profile%20Views&color=00f5ff&style=flat-square" alt="Views" /></a>
-  <img src="https://img.shields.io/badge/Status-Available%20for%20Hire-00e676?style=flat-square" alt="Status" />
-  <img src="https://img.shields.io/badge/Specialization-Multi--Agent%20Systems-7c4dff?style=flat-square" alt="Focus" />
-  <img src="https://img.shields.io/badge/Location-Bangladesh-ff9100?style=flat-square" alt="Location" />
-</p>
+    <linearGradient id="textShine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="50%" stop-color="#38BDF8"/>
+      <stop offset="100%" stop-color="#FFFFFF"/>
+    </linearGradient>
 
----
+    <!-- Glowing Blur Filters -->
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="25" result="blur"/>
+      <feComposite in="SourceGraphic" in2="blur" operator="over"/>
+    </filter>
 
-## 👨‍💻 Executive Summary
-I am an **AI Automation Architect & Software Engineer** specializing in **Autonomous Multi-Agent Systems**, cloud-native automation pipelines, and full-stack engineering. I bridge the gap between traditional software development and cutting-edge Large Language Models (LLMs) to build self-directed agents that can reason, orchestrate workflows, and solve complex business problems 24/7 with zero downtime.
+    <filter id="cardShadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="18" stdDeviation="22" flood-color="#000000" flood-opacity="0.6"/>
+    </filter>
+  </defs>
 
----
+  <style>
+    @keyframes floatOrb1 {
+      0%, 100% { transform: translate(0px, 0px) scale(1); }
+      50% { transform: translate(120px, 40px) scale(1.2); }
+    }
+    @keyframes floatOrb2 {
+      0%, 100% { transform: translate(0px, 0px) scale(1.1); }
+      50% { transform: translate(-100px, -50px) scale(0.9); }
+    }
+    @keyframes waveMotion {
+      0% { transform: translateX(0); }
+      50% { transform: translateX(-60px); }
+      100% { transform: translateX(0); }
+    }
+    .orb1 { animation: floatOrb1 10s ease-in-out infinite; }
+    .orb2 { animation: floatOrb2 12s ease-in-out infinite; }
+    .wave { animation: waveMotion 8s ease-in-out infinite; }
 
-## 🧩 Core Capabilities & Engineering Focus
+    /* Animated Subtitle Carousel (Typewriter / Fade Fusions) */
+    @keyframes textCycle1 {
+      0%, 28% { opacity: 1; transform: translateY(0); }
+      33%, 100% { opacity: 0; transform: translateY(-10px); }
+    }
+    @keyframes textCycle2 {
+      0%, 31% { opacity: 0; transform: translateY(10px); }
+      35%, 62% { opacity: 1; transform: translateY(0); }
+      67%, 100% { opacity: 0; transform: translateY(-10px); }
+    }
+    @keyframes textCycle3 {
+      0%, 65% { opacity: 0; transform: translateY(10px); }
+      69%, 95% { opacity: 1; transform: translateY(0); }
+      100% { opacity: 0; transform: translateY(-10px); }
+    }
 
-| Domain | What I Architect & Deliver |
-| :--- | :--- |
-| 🤖 **Autonomous Multi-Agent Systems** | Multi-agent collaboration frameworks where specialized agents (Scavengers, Analysts, Creators, Reviewers) plan, call external APIs, and execute complex workflows autonomously. |
-| ⚡ **Full-Cycle Workflow Automation** | End-to-end bots and enterprise pipeline automations integrating Meta Graph API (Facebook), Telegram APIs, Web Scraping, and custom webhooks. |
-| 🌐 **Software & Web Development** | High-performance full-stack web applications, RESTful APIs, clean UI/UX architectures, and responsive digital products. |
-| ☁️ **Resilient Cloud Architectures** | Deploying 24/7 crash-proof services on Cloud infrastructure (Render/Serverless) with health-checks, auto-restart triggers, and fail-safe LLM fallbacks. |
+    .title1 { animation: textCycle1 12s infinite; }
+    .title2 { animation: textCycle2 12s infinite; }
+    .title3 { animation: textCycle3 12s infinite; }
+  </style>
 
----
+  <!-- Deep Ocean Living Background -->
+  <rect width="1200" height="420" rx="20" fill="url(#oceanBg)"/>
 
-## 🚀 Featured Production Projects
+  <!-- Bioluminescent Ambient Island & Ocean Orbs -->
+  <g filter="url(#glow)">
+    <circle class="orb1" cx="280" cy="140" r="140" fill="#06b6d4" opacity="0.35"/>
+    <circle class="orb2" cx="950" cy="260" r="160" fill="#10b981" opacity="0.3"/>
+    <circle class="orb1" cx="620" cy="340" r="130" fill="#6366f1" opacity="0.25"/>
+  </g>
 
-| Project | Architecture & Role | Tech Stack | Production Status |
-| :--- | :--- | :--- | :--- |
-| **[Ai Revolution Bot](https://github.com/hmkborhanuddin2004-tech/ai-revolution-bot)** | **Autonomous Social Media Growth Agent**<br>Autonomous pipeline that scours the web for trending AI news, writes high-converting copy via Gemini LLM, generates 1080x1080 artwork via Flux AI, and publishes automatically via Meta Graph API. | `Python` `Gemini API` `Meta Graph API` `Render` | 🟢 **Live 24/7** |
-| **[Bokkor News & AI Bot](https://github.com/hmkborhanuddin2004-tech/bd-news-bot)** | **Real-Time News Intelligence Hub**<br>High-speed news aggregation and conversational AI bot deployed on Telegram. Features automated 3-tier daily digest broadcasts and contextual question-answering. | `Python` `Telegram API` `Web Scraping` `Gemini` | 🟢 **Live 24/7** |
-| **[Shuddho Guard](https://github.com/hmkborhanuddin2004-tech/shuddho-guard)** | **Content Verification & Security Utility**<br>Automated screening and filtering engine designed to validate, sanitize, and verify incoming text content and data streams. | `JavaScript` `Node.js` `Python` `Regex` | 🟡 **Active** |
-| **[Web Portfolio](https://github.com/hmkborhanuddin2004-tech/hmkborhanuddin2004-tech.github.io)** | **Interactive Developer Showcase**<br>Modern personal web portfolio deployed on GitHub Pages showcasing client projects, technical skills, and interactive live demos. | `HTML5` `CSS3` `JavaScript` `GitHub Pages` | 🟢 **Live** |
+  <!-- Subtle Ocean Waves at bottom -->
+  <path class="wave" d="M0,380 C300,340 600,410 900,370 C1050,350 1150,390 1200,380 L1200,420 L0,420 Z" fill="rgba(255, 255, 255, 0.05)"/>
 
----
+  <!-- 💎 LUXURY FROSTED GLASSMORPHISM CONTAINER 💎 -->
+  <rect x="80" y="45" width="1040" height="330" rx="24" 
+        fill="rgba(15, 23, 42, 0.65)" 
+        stroke="url(#glassBorder)" 
+        stroke-width="1.8" 
+        filter="url(#cardShadow)"/>
 
-## 🛠️ Tech Stack & Engineering Arsenal
+  <!-- Top Accent Glass Pill Badge -->
+  <g transform="translate(600, 95)">
+    <rect x="-180" y="-18" width="360" height="36" rx="18" fill="rgba(255, 255, 255, 0.08)" stroke="rgba(56, 189, 248, 0.4)" stroke-width="1"/>
+    <circle cx="-155" cy="0" r="5" fill="#00F5FF">
+      <animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite"/>
+    </circle>
+    <text x="5" y="5" text-anchor="middle" fill="#38BDF8" font-family="'Segoe UI', -apple-system, Roboto, sans-serif" font-size="12" font-weight="700" letter-spacing="2.5">
+      AUTONOMOUS SYSTEMS ARCHITECT
+    </text>
+  </g>
 
-<div align="left">
+  <!-- 🌟 Main Elite Title: HMk BORHAN UDDIN -->
+  <text x="600" y="195" text-anchor="middle" fill="url(#textShine)" font-family="'Montserrat', 'Segoe UI', -apple-system, sans-serif" font-size="52" font-weight="900" letter-spacing="4">
+    HMk BORHAN UDDIN
+  </text>
 
-**Artificial Intelligence & Agentic Frameworks:**  
-![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Multi-Agent Systems](https://img.shields.io/badge/Multi--Agent%20Systems-8A2BE2?style=for-the-badge)
-![LLM Tool Calling](https://img.shields.io/badge/LLM%20Tool%20Calling-FF6F00?style=for-the-badge)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-20B2AA?style=for-the-badge)
+  <!-- 🔄 Changing Subtitle Roles (Smooth Fusion Cycle) -->
+  <g transform="translate(600, 245)" text-anchor="middle" font-family="'Fira Code', 'Courier New', monospace" font-size="20" font-weight="600">
+    <!-- Role 1 -->
+    <text class="title1" fill="#00F5FF" letter-spacing="1">
+      ⚡ AI Automation Architect • Multi-Agent Systems
+    </text>
+    <!-- Role 2 -->
+    <text class="title2" fill="#34D399" letter-spacing="1">
+      🌐 Full-Stack Web &amp; Mobile App Developer
+    </text>
+    <!-- Role 3 -->
+    <text class="title3" fill="#A78BFA" letter-spacing="1">
+      🧠 Autonomous LLM Workflows &amp; Cloud Systems
+    </text>
+  </g>
 
-**Backend, Languages & APIs:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Meta Graph API](https://img.shields.io/badge/Meta%20Graph%20API-0084FF?style=for-the-badge&logo=meta&logoColor=white)
-![Telegram Bot API](https://img.shields.io/badge/Telegram%20API-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
+  <!-- Bottom Frosted Pill Tags -->
+  <g transform="translate(600, 315)">
+    <!-- Tag 1 -->
+    <rect x="-370" y="-15" width="165" height="30" rx="15" fill="rgba(255, 255, 255, 0.06)" stroke="rgba(255, 255, 255, 0.15)" stroke-width="1"/>
+    <text x="-287" y="5" text-anchor="middle" fill="#E2E8F0" font-family="sans-serif" font-size="12" font-weight="600">🤖 AI Agents</text>
 
-**Cloud Infrastructure & Developer Tools:**  
-![Render](https://img.shields.io/badge/Render%20Cloud-46E3B7?style=for-the-badge&logo=render&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+    <!-- Tag 2 -->
+    <rect x="-185" y="-15" width="175" height="30" rx="15" fill="rgba(255, 255, 255, 0.06)" stroke="rgba(255, 255, 255, 0.15)" stroke-width="1"/>
+    <text x="-97" y="5" text-anchor="middle" fill="#E2E8F0" font-family="sans-serif" font-size="12" font-weight="600">⚙️ AI Automation</text>
 
-</div>
+    <!-- Tag 3 -->
+    <rect x="10" y="-15" width="175" height="30" rx="15" fill="rgba(255, 255, 255, 0.06)" stroke="rgba(255, 255, 255, 0.15)" stroke-width="1"/>
+    <text x="97" y="5" text-anchor="middle" fill="#E2E8F0" font-family="sans-serif" font-size="12" font-weight="600">📱 Web &amp; App Dev</text>
 
----
-
-## 📊 Performance & Contribution Metrics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hmkborhanuddin2004-tech&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmkborhanuddin2004-tech&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
----
-
-## 💼 Connect & Inquiries
-
-<p align="left">
-  <a href="https://wa.me/8801XXXXXXXXX" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-  </a>
-  <a href="https://www.facebook.com/share/1CA1gFs3tQ/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-  <a href="https://hmkborhanuddin2004-tech.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-007ACC?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://github.com/hmkborhanuddin2004-tech" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
-
-<p align="center"><i>⚡ Transforming ideas into autonomous intelligence & scalable software.</i></p>
+    <!-- Tag 4 -->
+    <rect x="205" y="-15" width="165" height="30" rx="15" fill="rgba(255, 255, 255, 0.06)" stroke="rgba(255, 255, 255, 0.15)" stroke-width="1"/>
+    <text x="287" y="5" text-anchor="middle" fill="#E2E8F0" font-family="sans-serif" font-size="12" font-weight="600">☁️ Cloud 24/7</text>
+  </g>
+</svg>
