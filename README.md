@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.gif" alt="HMk Borhan Uddin Ocean Banner" width="100%"/>
+  <img src="banner.webp" alt="HMk Borhan Uddin Ocean Banner" width="100%"/>
 </p>
 
 <!-- ⚡ LIVE TYPEWRITER TYPING EFFECT ⚡ -->
@@ -85,7 +85,7 @@ I am an **AI Automation Architect, Multi-Agent Systems Engineer, and Full-Stack 
 ## 💼 Connect & Inquiries
 
 <p align="left">
-  <a href="https://wa.me/8801XXXXXXXXX" target="_blank">
+  <a href="https://wa.me/8801610201795" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
   <a href="https://www.facebook.com/share/1CA1gFs3tQ/" target="_blank">
