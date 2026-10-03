@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.svg" alt="HMk Borhan Uddin Banner" width="100%"/>
+  <img src="banner.gif" alt="HMk Borhan Uddin Ocean Banner" width="100%"/>
 </p>
 
 <!-- ⚡ LIVE TYPEWRITER TYPING EFFECT ⚡ -->
