@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.webp" alt="HMk Borhan Uddin Ocean Banner" width="100%"/>
+  <img src="banner.png" alt="HMk Borhan Uddin - Web Developer & Automation Specialist" width="100%"/>
 </p>
 
 <!-- ⚡ LIVE TYPEWRITER TYPING EFFECT ⚡ -->
