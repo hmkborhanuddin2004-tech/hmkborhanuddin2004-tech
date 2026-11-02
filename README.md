@@ -2,101 +2,94 @@
   <img src="banner.png" alt="HMk Borhan Uddin - Web Developer & Automation Specialist" width="100%"/>
 </p>
 
-<!-- ⚡ LIVE TYPEWRITER TYPING EFFECT ⚡ -->
-<p align="center">
-  <a href="https://github.com/hmkborhanuddin2004-tech">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2800&pause=1100&color=00F5FF&center=true&vCenter=true&width=750&height=50&lines=Hi%2C+I'm+HMk+Borhan+Uddin+%F0%9F%91%8B;AI+Automation+Architect+%26+Multi-Agent+Engineer+%F0%9F%A4%96;Full-Stack+Web+%26+Mobile+App+Developer+%F0%9F%93%B1;Solving+Complex+Problems+with+Autonomous+Intelligence+%E2%9A%A1" alt="Typing SVG" />
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hmkborhanuddin2004-tech&label=Profile%20Views&color=00f5ff&style=flat-square" alt="Views" />
-  <img src="https://img.shields.io/badge/Status-Available%20for%20Hire-00e676?style=flat-square" alt="Status" />
-  <img src="https://img.shields.io/badge/Specialization-AI%20Automation%20%26%20Agents-7c4dff?style=flat-square" alt="Focus" />
-  <img src="https://img.shields.io/badge/Stack-Web%20%26%20App%20Dev-ff9100?style=flat-square" alt="Stack" />
-</p>
+# Hi, I'm HMk Borhan Uddin 👋
 
----
+### Full-Stack Developer · AI Automation Specialist
 
-## 👨‍💻 Executive Summary
-I am an **AI Automation Architect, Multi-Agent Systems Engineer, and Full-Stack Web & App Developer**. I design and orchestrate intelligent autonomous architectures where LLM agents plan, reason, and collaborate to automate complex enterprise workflows. Combining robust full-stack software development with cutting-edge AI, I build resilient systems running 24/7 on cloud infrastructure.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=620&lines=AI+Automation+%26+Multi-Agent+Systems;Full-Stack+Web+%26+App+Development;Telegram+%26+Facebook+Automation+Bots" alt="Typing animation" />
 
----
+<br/>
 
-## 🧩 Core Capabilities & Engineering Focus
-
-| Domain | What I Architect & Deliver |
-| :--- | :--- |
-| 🤖 **Autonomous Multi-Agent Systems** | Collaborative agent architectures (Scavenger, Analyst, Decision & Action Agents) that execute complex workflows and tool-calling autonomously. |
-| ⚡ **AI Automation & Cloud Workflows** | Self-healing enterprise automations connecting Meta Graph API (Facebook), Telegram Bot APIs, Web Scraping, and cloud pipelines. |
-| 🌐 **Full-Stack Web & Mobile App Dev** | High-performance responsive web applications, modern mobile app interfaces, robust REST APIs, and scalable backend infrastructure. |
-| ☁️ **Resilient 24/7 Cloud Architecture** | Deploying fault-tolerant services on cloud environments (Render/Serverless) with auto-restarts, uptime monitors, and multi-model failover. |
-
----
-
-## 🚀 Featured Production Projects
-
-| Project | Architecture & Role | Tech Stack | Production Status |
-| :--- | :--- | :--- | :--- |
-| **[Ai Revolution Bot](https://github.com/hmkborhanuddin2004-tech/ai-revolution-bot)** | **Autonomous Social Media Growth Agent**<br>Autonomous pipeline that scours the web for trending AI news, writes high-converting copy via Gemini LLM, generates 1080x1080 artwork via Flux AI, and publishes automatically via Meta Graph API. | `Python` `Gemini API` `Meta Graph API` `Render` | 🟢 **Live 24/7** |
-| **[Bokkor News & AI Bot](https://github.com/hmkborhanuddin2004-tech/bd-news-bot)** | **Real-Time News Intelligence Hub**<br>High-speed news aggregation and conversational AI bot deployed on Telegram. Features automated 3-tier daily digest broadcasts and contextual question-answering. | `Python` `Telegram API` `Web Scraping` `Gemini` | 🟢 **Live 24/7** |
-| **[Shuddho Guard](https://github.com/hmkborhanuddin2004-tech/shuddho-guard)** | **Content Verification & Security Utility**<br>Automated screening and filtering engine designed to validate, sanitize, and verify incoming text content and data streams. | `JavaScript` `Node.js` `Python` `Regex` | 🟡 **Active** |
-| **[Web Portfolio](https://github.com/hmkborhanuddin2004-tech/hmkborhanuddin2004-tech.github.io)** | **Interactive Developer Showcase**<br>Modern personal web portfolio deployed on GitHub Pages showcasing client projects, technical skills, and interactive live demos. | `HTML5` `CSS3` `JavaScript` `GitHub Pages` | 🟢 **Live** |
-
----
-
-## 🛠️ Tech Stack & Engineering Arsenal
-
-<div align="left">
-
-**Artificial Intelligence & Agentic Frameworks:**  
-![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Multi-Agent Systems](https://img.shields.io/badge/Multi--Agent%20Systems-8A2BE2?style=for-the-badge)
-![LLM Tool Calling](https://img.shields.io/badge/LLM%20Tool%20Calling-FF6F00?style=for-the-badge)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-20B2AA?style=for-the-badge)
-
-**Full-Stack, Languages & APIs:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Meta Graph API](https://img.shields.io/badge/Meta%20Graph%20API-0084FF?style=for-the-badge&logo=meta&logoColor=white)
-![Telegram Bot API](https://img.shields.io/badge/Telegram%20API-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
-
-**Cloud Infrastructure & Tools:**  
-![Render](https://img.shields.io/badge/Render%20Cloud-46E3B7?style=for-the-badge&logo=render&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801610201795)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/19aT8h8cTL/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=githubpages&logoColor=white)](https://hmkborhanuddin2004-tech.github.io)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hmkborhanuddin2004@gmail.com)
 
 </div>
 
 ---
 
-## 📊 Performance & Contribution Metrics
+## 👨‍💻 About Me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hmkborhanuddin2004-tech&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmkborhanuddin2004-tech&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+I build AI-powered automation and full-stack applications. My work centers on autonomous agents that research, decide and act on their own — publishing content, answering questions and running workflows 24/7 on cloud infrastructure — along with the web and mobile interfaces around them.
 
----
+Based in Bangladesh 🇧🇩 · Open to freelance projects.
 
-## 💼 Connect & Inquiries
+## 🧩 What I Do
 
-<p align="left">
-  <a href="https://wa.me/8801610201795" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-  </a>
-  <a href="https://www.facebook.com/share/1CA1gFs3tQ/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-  <a href="https://hmkborhanuddin2004-tech.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-007ACC?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://github.com/hmkborhanuddin2004-tech" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+| Area | What I build |
+|---|---|
+| 🤖 **Autonomous Multi-Agent Systems** | Collaborative agents (Scavenger, Analyst, Decision and Action agents) that plan tasks and call tools on their own. |
+| ⚡ **AI Automation** | Workflows connecting the Meta Graph API (Facebook), Telegram Bot API, web scraping and cloud pipelines. |
+| 🌐 **Full-Stack Web & Mobile** | Responsive web apps, PWAs, REST APIs and backend services. |
+| ☁️ **Cloud Deployment** | Services on Render / serverless with auto-restarts, uptime monitoring and multi-model failover. |
 
-<p align="center"><i>⚡ Architecting autonomous intelligence, scalable web &amp; mobile solutions.</i></p>
+## 🚀 Featured Projects
+
+| Project | What it does | Tech |
+|---|---|---|
+| **AI Revolution Bot** 🟢 Live 24/7 | Autonomous social-media agent. Finds trending AI news, writes the post with Gemini, generates a 1080×1080 image with FLUX, and publishes through the Meta Graph API. | Python · Gemini API · Meta Graph API · Render |
+| [**Bokkor News & AI Bot**](https://github.com/hmkborhanuddin2004-tech/bd-news-bot) 🟢 Live 24/7 | Telegram news hub. Aggregates news, sends a 3-tier daily digest and answers questions in context. | Python · Telegram API · Web Scraping · Gemini |
+| [**Shuddho Guard**](https://github.com/hmkborhanuddin2004-tech/shuddho-guard) (শুদ্ধ গার্ড) 🟡 Active | Anti-pornography and social-media trap-link protection for users in Bangladesh. | JavaScript · Node.js · Python · Regex |
+| [**Madrasa Management System**](https://github.com/hmkborhanuddin2004-tech/madrasa-management-system) 🟢 Active | Modern madrasa management system (PWA) that automates education records and accounts. | TypeScript · React · Tailwind CSS · PWA |
+| [**Web Portfolio**](https://hmkborhanuddin2004-tech.github.io) 🟢 Live | Personal portfolio with client projects, skills and live demos, hosted on GitHub Pages. | HTML5 · CSS3 · JavaScript |
+
+## 🛠️ Tech Stack
+
+**AI & Agents**
+
+![Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white)
+![Multi-Agent](https://img.shields.io/badge/Multi--Agent%20Systems-6E40C9?style=flat-square)
+![Tool Calling](https://img.shields.io/badge/LLM%20Tool%20Calling-6E40C9?style=flat-square)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-6E40C9?style=flat-square)
+
+**Languages & APIs**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Meta Graph API](https://img.shields.io/badge/Meta%20Graph%20API-0866FF?style=flat-square&logo=meta&logoColor=white)
+![Telegram Bot API](https://img.shields.io/badge/Telegram%20Bot%20API-26A5E4?style=flat-square&logo=telegram&logoColor=white)
+
+**Cloud & Tools**
+
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+## 📊 GitHub Activity & Streak
+
+<div align="center">
+
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=hmkborhanuddin2004-tech&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=hmkborhanuddin2004-tech&label=Profile%20Views&color=2F81F7&style=flat-square" alt="Views" />
+
+</div>
+
+## 💼 Let's Work Together
+
+Need an automation bot, an AI agent or a full-stack web app? Message me on [WhatsApp](https://wa.me/8801610201795) or email me at [hmkborhanuddin2004@gmail.com](mailto:hmkborhanuddin2004@gmail.com).
+
+<div align="center">
+
+⚡ *Building autonomous intelligence and scalable web & mobile solutions.*
+
+</div>
